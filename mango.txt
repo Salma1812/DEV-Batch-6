@@ -1,0 +1,2 @@
+echo "mango is the king in fruits"
+
